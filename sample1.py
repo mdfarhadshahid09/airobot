@@ -15,4 +15,4 @@ def a_star(start, goal, grid):
             visited.add(current)
             # Add logic here to check neighboring cells (up, down, left, right)
             pass
-    return "No path found fetch"
+    return "What a goal"
